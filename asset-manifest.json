@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/computer-app/static/css/main.26867414.css",
+    "main.js": "/computer-app/static/js/main.fa79c3c8.js",
+    "static/js/488.96ed1540.chunk.js": "/computer-app/static/js/488.96ed1540.chunk.js",
+    "static/media/Bob.jpg": "/computer-app/static/media/Bob.271531ea31e81436f0bf.jpg",
+    "static/media/image-0.1.jpg": "/computer-app/static/media/image-0.1.d3ef7c914d62a24fcfce.jpg",
+    "index.html": "/computer-app/index.html",
+    "main.26867414.css.map": "/computer-app/static/css/main.26867414.css.map",
+    "main.fa79c3c8.js.map": "/computer-app/static/js/main.fa79c3c8.js.map",
+    "488.96ed1540.chunk.js.map": "/computer-app/static/js/488.96ed1540.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26867414.css",
+    "static/js/main.fa79c3c8.js"
+  ]
+}
